@@ -1,3 +1,6 @@
+// the idea behind the bubble sort is that largest element comes to the end of the array 
+// by swapping with the adjasent elemnts
+
 public class BubbleSort{
     public static void bubbleSorting(int arr[]){
         for (int turn=0;turn<arr.length-1;turn++){
